@@ -1,0 +1,79 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-image: url('https://img.lovepik.com/photo/20211130/medium/lovepik-vegetable-background-picture_501241229.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}   
+img {
+    height: 300px !important;
+    box-sizing: border-box;
+    margin: auto;
+}
+
+.product {
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+
+.element {
+    text-align: center !important;
+    margin: auto;
+    margin: 10px;
+    color: black;
+    background-color: RGBA(123,174,80,0.6);
+    border-radius: 15px;
+}
+
+.slide-show {
+    margin: 10px 0px;
+    padding: 30px;
+}
+
+.footer {
+}
+
+.button {
+    padding: 2px;
+}
+
+.form-control {
+    width: 90% !important;
+    display: inline !important;
+}
+.button {
+    padding: 4px 2%;
+    margin: auto;
+    text-align: center;
+    margin: 7px 5px 5px 6px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+}
+
+.button-add {
+    background-color: orange;
+    color: white;
+    text-align: center;
+    margin: 5px auto;
+    border-radius: 10px;
+}
+
+.product-quantity {
+    width: 80px;
+    border-radius: 7px;
+}
+
+.product-name {
+    font-size: 30px;
+    color: white;
+}
+
+.footer {
+    background-color: RGBA(18,15,22,0.8);
+    padding-top: 30px;
+    margin: 10px 10px;
+    color: white;
+    border-radius: 10px 10px 10px 10px;
+}
