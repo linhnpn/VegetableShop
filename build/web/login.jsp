@@ -35,6 +35,6 @@
                 <p class="error"><%= error%></p>
             </form>
         </div>        
-        
+        Test every body
     </body>
 </html>
